@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @3kirt
+- 👀 I’m interested in Infrastructure as code, Azure, AWS, Ansible, Kubernetes, Terraform, Intune
+- 🌱 I’m currently learning Kubernetes, Terraform
